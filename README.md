@@ -1,2 +1,2 @@
-# penterster_wiki
+# penterster-wiki
  
